@@ -1,4 +1,4 @@
-### Olá👋
+### Olá 👋
 
 - 🔭 Atualmente trabalhando em um projeto de **análise de dados** 
 - 🌱 Estudando linguagem **R**
