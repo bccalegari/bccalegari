@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente trabalhando em um projeto de **banco de dados** 
-- 🌱 Estudando **SQL** *NoSQL**
+- 🌱 Estudando **SQL** e **NoSQL**
 
 ##
 
